@@ -22,6 +22,7 @@ export const SubmitButton = styled.button`
   border-radius: 10px;
   cursor: pointer;
   transition: background-color 250ms ease, color 250ms ease;
+  background-color: #4b7a;
 
   &:hover,
   &:focus {
@@ -31,6 +32,7 @@ export const SubmitButton = styled.button`
 `;
 
 export const Input = styled.input`
+background-color: #4b7a;
   display: block;
   width: 300px;
   padding: 10px 15px;
@@ -43,6 +45,7 @@ export const Input = styled.input`
 `;
 
 export const PasswordInput = styled.input`
+background-color: #4b7a;
   display: block;
   width: 300px;
   padding: 10px 15px;

@@ -24,7 +24,7 @@ export const UserLink = styled(Link)`
   text-decoration: none;
   font-size: 30px;
   color: #d5cea3;
-  // background-color: #a8de;
+  background-color: #4b7a;
   border: none;
   border-radius: 10px;
   cursor: pointer;
